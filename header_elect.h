@@ -72,7 +72,7 @@ int authenticateAdmin()
     
     printf("\nPlease Enter username: ");
     scanf("%s",username);
-    if((strcmp(username,"Admin"))!=0)
+    if((strcmp(username,"iamlordvoldemort"))!=0)
     {
         return 0;
     }
@@ -86,7 +86,7 @@ int authenticateAdmin()
             printf("%c",'*');
         }
         password[i]='\0';
-        if((strcmp(password,"admiN"))!=0)
+        if((strcmp(password,"Youknowho@7"))!=0)
         {
             return 0;
         }
