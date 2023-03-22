@@ -4,7 +4,10 @@
 2) Applicable for large as well as small group of people e.g. a batch, a class.
 3) Keeps a record of  every voting process.
 
-clone the repo, Once you have both the files "mainfile.c" and "header_elec.h", You just need to compile and run mainfile.c
+clone the repo, Once you have both the files "mainfile.c" and "header_elec.h", 
+You just need to compile and run mainfile.c
+
+example : gcc mainfile.c -o outfile
 
 # Admin_login : 
               Username : iamlordvoldemort
